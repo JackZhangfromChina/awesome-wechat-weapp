@@ -152,6 +152,7 @@
 - [视频 - 微信小程序开发实战第二季(CSDN)](http://edu.csdn.net/course/detail/3045)
 - [视频 - 极客学院微信小程序开发](http://www.jikexueyuan.com/zhiye/course/34.html?type=8&utm_source=jike&utm_medium=www_index_cf&utm_campaign=wechat_app&utm_content=0930)
 - [视频 - 微信小程序新手入门(51CTO)](http://edu.51cto.com/course/course_id-7242.html)
+- [视频 - 数据精灵团队小程序开发教程(优酷)](http://i.youku.com/i/UMjk4MzY0NjkwOA==/videos?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
 ## 文章
 
